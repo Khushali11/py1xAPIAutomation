@@ -1,5 +1,3 @@
-# py1xAPIAutomation
-
 ### python API Automation framework
 
 Hybrid custom framework to test the REST APIs
