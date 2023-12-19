@@ -19,5 +19,17 @@ go to terminal ,ckeck ''pip list
 ### to install the Freeze version
 ''pip install -r requirements.txt
 
+## howto run test case parallel
+pip install pytest-xdist
+pytest -n auto tests/integration_test/parallel.py
+
+###read excel file
+pip install openpyxl
+
+### to work with json schema
+'' pip install jsonschema
+
+
+
 
 
